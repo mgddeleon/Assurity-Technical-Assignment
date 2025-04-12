@@ -19,4 +19,4 @@ On your Terminal/Command prompt, run the below commands:
 ### Run tests
 On your Terminal/Command prompt, run the below commands:
 1. Go to your folder where you checked out the code: `cd \Assurity\TechnicalAssignment`
-2. Run `pytest test_api_response.py'
+2. Run `pytest test_api_response.py`
